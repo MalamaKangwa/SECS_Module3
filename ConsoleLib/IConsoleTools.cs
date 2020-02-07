@@ -11,3 +11,4 @@ namespace ConsoleLib
         //public string ReadFromConsole();
     }
 }
+
